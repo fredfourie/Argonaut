@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{9F041017-823A-4D31-A8C7-6A7F999F2E47}"
 	ProjectSection(SolutionItems) = preProject
 		Resources\images\AdafruitPixyPet.jpg = Resources\images\AdafruitPixyPet.jpg
+		Resources\PCA9685 I2C LED Controller specs.pdf = Resources\PCA9685 I2C LED Controller specs.pdf
+		Resources\Pololu Zumo Shield for Arduino User’s Guide.pdf = Resources\Pololu Zumo Shield for Arduino User’s Guide.pdf
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneWeek.Hackathon", "OneWeek.Hackathon\OneWeek.Hackathon.csproj", "{4DBABEF2-A454-4109-849B-6664E91B53CF}"
